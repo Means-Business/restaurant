@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:serif="http://www.serif.com/"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 484.8 484.8"
+	 style="enable-background:new 0 0 484.8 484.8;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#00AEEF;stroke-miterlimit:10;}
+	.st1{fill:none;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#00AEEF;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#E71B6C;}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:#FAFDFC;stroke:#69BE5C;stroke-miterlimit:10;}
+	.st5{fill:#E71B6C;}
+</style>
+<circle class="st0" cx="242.4" cy="242.4" r="242.4"/>
+<g id="Artboard1" transform="matrix(0.962567,0,0,0.925714,-150.189,-199.91)">
+	<rect x="217.7" y="297.2" class="st1" width="409" height="382.8"/>
+	<g transform="matrix(1.03889,0,0,1.08025,-12.5403,-29.8246)">
+		<rect x="223.2" y="307.5" class="st2" width="99.1" height="294.3"/>
+		<rect x="440.6" y="360.7" class="st2" width="99.1" height="294.3"/>
+		<rect x="331.8" y="360.7" class="st2" width="99.1" height="294.3"/>
+		<circle class="st3" cx="528" cy="567.7" r="87.4"/>
+		<circle class="st4" cx="528" cy="570.8" r="37.1"/>
+		<path class="st5" d="M440.6,580.9v74h72.1L440.6,580.9z"/>
+	</g>
+</g>
+</svg>

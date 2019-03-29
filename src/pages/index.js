@@ -17,7 +17,6 @@ const IndexPage = () => (
         `programming`,
       ]}
     />
-    <h3>hello from gatsby</h3>
   </Layout>
 );
 

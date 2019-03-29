@@ -1,11 +1,13 @@
 // rfs modules
 @import '~rfs/scss';
 
-$font-stack: Helvetica, sans-serif;
+$font-stack: 'Open Sans', sans-serif;
 $primary-color: #333;
+$mainOrange: #f15025;
+$mainYellow: #d2aa5c;
+$background-color: #fff;
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+:root {
+  --mainOrange: #f15025;
+  --mainYellow: #d2aa5c;
 }
