@@ -2,7 +2,7 @@ import React from 'react';
 
 import Layout from '../components/layout';
 import SEO from '../components/seo';
-import { HomeHeader } from '../utils';
+import { HomeHeader, Banner } from '../utils';
 import img from '../images/bcg/homeBcg.jpeg';
 
 const IndexPage = () => (
@@ -20,7 +20,12 @@ const IndexPage = () => (
         `programming`,
       ]}
     />
-    <HomeHeader img={img}>hello from home header</HomeHeader>
+    <HomeHeader img={img}>
+      <Banner
+        title="eatery"
+        subtitle="142/191 Moo 7 Kathu, Kathu, Phuket 83120"
+      />
+    </HomeHeader>
   </Layout>
 );
 
