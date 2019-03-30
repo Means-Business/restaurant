@@ -2,8 +2,9 @@ import React from 'react';
 
 import Layout from '../components/layout';
 import SEO from '../components/seo';
-import { HomeHeader, Banner } from '../utils';
+import { HomeHeader, Banner, BannerButton } from '../utils';
 import img from '../images/bcg/homeBcg.jpeg';
+import QuickInfo from '../components/HomePageComponent/Quickinfo';
 
 const IndexPage = () => (
   <Layout>
@@ -24,8 +25,11 @@ const IndexPage = () => (
       <Banner
         title="eatery"
         subtitle="142/191 Moo 7 Kathu, Kathu, Phuket 83120"
-      />
+      >
+        <BannerButton style={{ margin: '2rem auto' }}>menu</BannerButton>
+      </Banner>
     </HomeHeader>
+    <QuickInfo />
   </Layout>
 );
 
