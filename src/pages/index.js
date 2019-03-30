@@ -2,6 +2,8 @@ import React from 'react';
 
 import Layout from '../components/layout';
 import SEO from '../components/seo';
+import { HomeHeader } from '../utils';
+import img from '../images/bcg/homeBcg.jpeg';
 
 const IndexPage = () => (
   <Layout>
@@ -12,12 +14,13 @@ const IndexPage = () => (
         `application`,
         `react`,
         `accounting`,
+        `accountant`,
         `bookkeeping`,
         `taxation`,
         `programming`,
       ]}
     />
-    <h3>this is home page</h3>
+    <HomeHeader img={img}>hello from home header</HomeHeader>
   </Layout>
 );
 
